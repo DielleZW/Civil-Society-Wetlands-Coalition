@@ -20,3 +20,11 @@ Upload all files in this folder to a GitHub repository and deploy as a static si
 ## Source material
 - Wetland Voices, August 2026, Issue 1
 - Civil Wetlands Newsletter, June/July 2026, Issue 1
+
+## Wetland action decision tree
+`action-guide.html` and `action-guide.js` provide a branching public action guide and downloadable case-report form. The form is NOT connected to a recipient. Before publication configure a coalition intake channel, consent/privacy terms, safeguarding and triage protocol.
+
+
+## v3 — Google Form integration
+
+The action guide and homepage now link directly to the coalition’s supplied public Google Form for wetland case reports. The former local case-report download form was removed from the action guide. The separate editorial/story submission draft on the homepage is unchanged and still does not send online. Test the Google Form response collection, notifications and permissions before launch.
